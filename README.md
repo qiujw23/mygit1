@@ -58,8 +58,8 @@ for more details
 <br>
 ## operating instructions
 1. Download all files in a same folder.
-2. Open `weatherchatbot.py` file in any IDE, the IDE I used to run is [Pycharm](https://www.jetbrains.com/pycharm/).
-3. config_spacy.yml is the configuration file for rasa_NLU. demo-rasa.json is the file for rasa trainning.
+2. config_spacy.yml is the configuration file for rasa_NLU. demo-rasa.json is the file for rasa trainning.
+3. Open `weather_bot.py` file in any IDE, the IDE I used to run is [Pycharm](https://www.jetbrains.com/pycharm/).
 4. Change the statement below to chat with your own robot, you only need a token for telegram bot
     ```
     TOKEN = YOUR_TOKEN
