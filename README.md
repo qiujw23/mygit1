@@ -7,6 +7,7 @@ There are few online packages need to be installed for this project
 ### Rasa-NLU
 ***Prerequisites***<br>
 <br>
+Make sure your other packages on your computer are compatible with rasa-NLU.
 ***Setting up Rasa NLU***<br>
 <br>
 **Stable (Recommended)**<br>
@@ -27,11 +28,14 @@ When you train your model, Rasa NLU will check if all required dependencies are 
 
 ***For more installation information***<br>
 Go to https://rasa.com/docs/nlu/installation/<br>
+
 ### Telgram bot
+<br>
+you just need to download telegram on its official website:https://telegram.org/apps and register and log in.
+After that, search Bot_Father to achieve your own bot!
 <br>
 ### pyTelegramBotAPI
 ***Setting up pyTelegramBotAPI***<br>
-<br>
 **From PyPI with pip (latest stable release):**<br>
 ```
 $ pip install pyTelegramBotAPI
