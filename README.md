@@ -29,12 +29,13 @@ When you train your model, Rasa NLU will check if all required dependencies are 
 ***For more installation information***<br>
 Go to https://rasa.com/docs/nlu/installation/<br>
 
-### Telgram bot
-<br>
+#### Telgram bot
+***requirement***
 you just need to download telegram on its official website:https://telegram.org/apps and register and log in.
 After that, search Bot_Father to achieve your own bot!
 <br>
-### pyTelegramBotAPI
+
+##### pyTelegramBotAPI
 ***Setting up pyTelegramBotAPI***<br>
 **From PyPI with pip (latest stable release):**<br>
 ```
@@ -50,12 +51,12 @@ $ python setup.py install
 ***For more information***<br>
 Go to https://github.com/eternnoir/pyTelegramBotAPI<br>
 <br>
-## The api I used
+###### The api I used
 Go to https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62
 and https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6043e4b00287471a2b66
 for more details
 <br>
-## operating instructions
+###### operating instructions
 1. Download all files in a same folder.
 2. Open `weatherchatbot.py` file in any IDE, the IDE I used to run is [Pycharm](https://www.jetbrains.com/pycharm/).
 3. config_spacy.yml is the configuration file for rasa_NLU. demo-rasa.json is the file for rasa trainning.
